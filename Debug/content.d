@@ -1,0 +1,1 @@
+content.d: ../content.c
